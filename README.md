@@ -1,12 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
-
-### <div align="center">I'm Ethan, a student from the UK. </div>  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
